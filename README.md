@@ -34,8 +34,21 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-fff?&logo=OpenCV)
 ![YOLO](https://img.shields.io/badge/-YOLO-fff?&logo=YOLO)
 
+---
 
-### Projects
+[![HitCount](http://hits.dwyl.com/rajpra786/rajpra786.svg)](http://hits.dwyl.com/rajpra786/rajpra786)
+
+<i>Connect With Me!</i><br>
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/rajendra-prajapat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajendra-prajapat" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prajapat786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="buckshot" height="30" width="40" /></a>
+<a href="https://medium.com/@raj.int.pra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="buckshot" height="30" width="40" /></a>
+</p>
+</div>
+
+---
+
 
 
 
