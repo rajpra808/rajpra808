@@ -1,5 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Rajpra786/Rajpra786/main/images/gif.gif)](https://github.com/rajpra786)
 
+[![HitCount](http://hits.dwyl.com/rajpra786/rajpra786.svg)](http://hits.dwyl.com/rajpra786/rajpra786)
+
 ### Languages
 
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/rajpra786?tab=repositories&q=&type=&language=c)
@@ -15,29 +17,26 @@
 
 ### Technologies
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
-![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=Express.js)
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![Ionic](https://img.shields.io/badge/-Ionic-fff?&logo=Ionic&logoColor=007ACC)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)](#)
+[![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=Express.js)](#)
+[![React](https://img.shields.io/badge/-React-fff?&logo=React)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)](#)
+[![Ionic](https://img.shields.io/badge/-Ionic-fff?&logo=Ionic&logoColor=007ACC)](#)
 
 
-![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase)
-![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=SQLite&logoColor=1f53b5)
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![NS3](https://img.shields.io/badge/-NS3-fff?&logo=NS3&logoColor=000)
-![Wireshark](https://img.shields.io/badge/-Wireshark-fff?&logo=Wireshark&logoColor=1f53b5)
+[![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase)](#)
+[![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=SQLite&logoColor=1f53b5)](#)
+[![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)](#)
+[![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)](#)
+[![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)](#)
+[![NS3](https://img.shields.io/badge/-NS3-fff?&logo=NS3&logoColor=000)](#)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-fff?&logo=Wireshark&logoColor=1f53b5)](#)
 
-![Keras](https://img.shields.io/badge/-Keras-fff?&logo=b31232)
-![OpenCV](https://img.shields.io/badge/-OpenCV-fff?&logo=OpenCV)
-![YOLO](https://img.shields.io/badge/-YOLO-fff?&logo=YOLO)
+[![Keras](https://img.shields.io/badge/-Keras-fff?&logo=b31232)](#)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-fff?&logo=OpenCV)](#)
+[![YOLO](https://img.shields.io/badge/-YOLO-fff?&logo=YOLO)](#)
 
 ---
-
-[![HitCount](http://hits.dwyl.com/rajpra786/rajpra786.svg)](http://hits.dwyl.com/rajpra786/rajpra786)
-
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
