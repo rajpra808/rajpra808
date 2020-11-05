@@ -3,12 +3,12 @@
 ### Languages
 
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/rajpra786?tab=repositories&q=&type=&language=c)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+[![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/rajpra786?tab=repositories&q=&type=&language=c%2B%2B)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/rajpra786?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/rajpra786?tab=repositories&q=&type=&language=javascript)
-![MATLAB](https://img.shields.io/badge/-MATLAB-fff?&logo=Matlab&logoColor=007ACC)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-fff?&logo=Matlab&logoColor=007ACC)](https://github.com/rajpra786?tab=repositories&q=&type=&language=matlab)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/rajpra786?tab=repositories&q=&type=&language=java)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)](https://github.com/rajpra786?tab=repositories&q=&type=&language=typescript)
 
 
 
