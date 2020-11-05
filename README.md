@@ -38,7 +38,7 @@
 
 [![HitCount](http://hits.dwyl.com/rajpra786/rajpra786.svg)](http://hits.dwyl.com/rajpra786/rajpra786)
 
-<i>Connect With Me!</i><br>
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/rajendra-prajapat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajendra-prajapat" height="30" width="40" /></a>
