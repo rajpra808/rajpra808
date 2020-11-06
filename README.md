@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Rajpra786/Rajpra786/main/images/gif.gif)](https://github.com/rajpra786)
 
 
-[![HitCount](https://views.whatilearened.today/views/github/Rajpra786/Rajpra786.svg)](https://github.com/rajpra786/)
+
 
 ### Languages
 
@@ -42,6 +42,9 @@
 <p align="left">
   
 <h3 align="left">Connect with me:</h3>
+
+[![HitCount](https://views.whatilearened.today/views/github/Rajpra786/Rajpra786.svg)](https://github.com/rajpra786/)
+
 <a href="https://www.linkedin.com/in/rajendra-prajapat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajendra-prajapat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prajapat786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="buckshot" height="30" width="40" /></a>
 <a href="https://medium.com/@raj.int.pra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="buckshot" height="30" width="40" /></a>
