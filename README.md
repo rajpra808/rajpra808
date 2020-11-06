@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Rajpra786/Rajpra786/main/images/gif.gif)](https://github.com/rajpra786)
 
-
+[![HitCount](http://hits.dwyl.com/Rajpra786/Rajpra786.svg)](http://hits.dwyl.com/Rajpra786/Rajpra786)
 
 ### Languages
 
