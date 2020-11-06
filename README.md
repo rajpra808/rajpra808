@@ -1,6 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Rajpra786/Rajpra786/main/images/gif.gif)](https://github.com/rajpra786)
 
-[![HitCount](http://hits.dwyl.com/Rajpra786/Rajpra786.svg)](http://hits.dwyl.com/Rajpra786/Rajpra786)
+
+[![HitCount](https://views.whatilearened.today/views/github/Rajpra786/Rajpra786.svg)](https://github.com/rajpra786/)
 
 ### Languages
 
@@ -39,8 +40,6 @@
 ---
 
 <p align="left">
-
-[![HitCount](http://hits.dwyl.com/Rajpra786/Rajpra786.svg)](http://hits.dwyl.com/Rajpra786/Rajpra786)
   
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/rajendra-prajapat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajendra-prajapat" height="30" width="40" /></a>
