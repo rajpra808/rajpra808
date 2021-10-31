@@ -19,12 +19,13 @@
 ### Technologies
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)](#)
+[![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?&logo=spring-boot)](#)
 [![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=Express.js)](#)
 [![React](https://img.shields.io/badge/-React-fff?&logo=React)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)](#)
 [![Ionic](https://img.shields.io/badge/-Ionic-fff?&logo=Ionic&logoColor=007ACC)](#)
 
-
+[![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase)](#)
 [![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=SQLite&logoColor=1f53b5)](#)
 [![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)](#)
