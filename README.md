@@ -1,6 +1,15 @@
-[![Header](https://raw.githubusercontent.com/Rajpra786/Rajpra786/main/images/gif.gif)](https://github.com/rajpra786)
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi There, I am <a href="https://github.com/rajpra808">Rajendra</a> </h1>
+</h1>
 
+### 📬 Find me at
+<!-- [![HitCount](https://views.whatilearened.today/views/github/rajpra808/rajpra808.svg)](https://github.com/rajpra808/) -->
 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/rajpra808/)](https://github.com/rajpra808/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendra-prajapat/)](https://www.linkedin.com/in/rajendra-prajapat)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:rajpra808@gmail.com)
+<!-- [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/rajpra)](https://www.hackerrank.com/rajpra) -->
+
+<!-- [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles) -->
 
 
 ### Languages
@@ -40,16 +49,14 @@
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   
 <h3 align="left">Connect with me:</h3>
-
-[![HitCount](https://views.whatilearened.today/views/github/Rajpra786/Rajpra786.svg)](https://github.com/rajpra786/)
 
 <a href="https://www.linkedin.com/in/rajendra-prajapat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajendra-prajapat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prajapat786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="buckshot" height="30" width="40" /></a>
 <a href="https://medium.com/@raj.int.pra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="buckshot" height="30" width="40" /></a>
-</p>
+</p> -->
 </div>
 
 ---
